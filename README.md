@@ -4,26 +4,26 @@
     </a>
     <br>My solutions to Hyperskill problems
 </p>
-|       Challenge       | Solution |
-| :-------------------: | :------: |
-| Calculating Factorial |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
-|                       |          |
+|                          Challenge                           |                           Solution                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Calculating Factorial](https://github.com/rockey5520/hyperskill-readability-score/blob/master/Problems/Calculating%20factorials/task.html) | [Solution](https://github.com/rockey5520/hyperskill-readability-score/blob/master/Problems/Calculating%20factorials/src/Main.java) |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
