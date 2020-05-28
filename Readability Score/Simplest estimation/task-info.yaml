@@ -69,9 +69,6 @@ files:
         }
     }
   learner_created: false
-- name: src/readability/README.md
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/39/stages/205/implement
-status: Unchecked
+status: Solved
 record: -1
