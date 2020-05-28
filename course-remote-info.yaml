@@ -86,18 +86,18 @@ topics:
     theory_id: 3614
   - title: Binary numbers
     theory_id: 5544
-  - title: Command line overview
-    theory_id: 8977
-  - title: What are streams
-    theory_id: 5533
-  - title: Input streams
-    theory_id: 9723
+  - title: Computer programming
+    theory_id: 8739
   - title: What is an exception
     theory_id: 3497
   - title: Hierarchy of exceptions
     theory_id: 3570
   - title: Exception handling
     theory_id: 3552
+  - title: Introduction to operating systems
+    theory_id: 9704
+  - title: Command line overview
+    theory_id: 8977
   - title: Files
     theory_id: 3635
   - title: Reading files
@@ -118,10 +118,6 @@ topics:
     theory_id: 3739
   - title: JVM, JRE, and JDK
     theory_id: 3499
-  - title: Running programs on your computer
-    theory_id: 3746
-  - title: Command-line arguments
-    theory_id: 3566
   - title: Errors in programs
     theory_id: 3536
   - title: Defining classes
@@ -140,6 +136,10 @@ topics:
     theory_id: 3599
   - title: Inheritance
     theory_id: 3583
+  - title: Running programs on your computer
+    theory_id: 3746
+  - title: Command-line arguments
+    theory_id: 3566
   3:
   - title: Math library
     theory_id: 3501
