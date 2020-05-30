@@ -7,7 +7,7 @@
 |                          Challenge                           |                           Solution                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [Calculating Factorial](https://github.com/rockey5520/hyperskill-readability-score/blob/master/Problems/Calculating%20factorials/task.html) | [Solution](https://github.com/rockey5520/hyperskill-readability-score/blob/master/Problems/Calculating%20factorials/src/Main.java) |
-|                                                              |                                                              |
+| [Simple Estimation](https://github.com/rockey5520/hyperskill-readability-score/blob/master/Readability%20Score/Simplest%20estimation/task.html) | [Solution](https://github.com/rockey5520/hyperskill-readability-score/blob/master/Readability%20Score/task/src/readability/Main.java) |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |

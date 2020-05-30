@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials.iml" group="Readability_Score/Problems-Calculating_factorials" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_main.iml" group="Readability_Score/Problems-Calculating_factorials" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Problems-Calculating_factorials_test.iml" group="Readability_Score/Problems-Calculating_factorials" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Problems-Check_burgs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Problems-Check_burgs.iml" group="Readability_Score/Problems-Check_burgs" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Problems-Check_burgs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Problems-Check_burgs_main.iml" group="Readability_Score/Problems-Check_burgs" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Problems-Check_burgs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Problems-Check_burgs_test.iml" group="Readability_Score/Problems-Check_burgs" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score.iml" group="Readability_Score" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" group="Readability_Score/Readability_Score-task" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" group="Readability_Score/Readability_Score-task" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" group="Readability_Score/Readability_Score-task" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Readability_Score/util" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Readability_Score/util" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Readability_Score/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Readability_Score.Problems-Calculating_factorials.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Readability_Score.Problems-Calculating_factorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Readability_Score.Problems-Calculating_factorials.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Readability_Score.Problems-Calculating_factorials.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Readability_Score.Problems-Calculating_factorials.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculating factorials/Readability_Score.Problems-Calculating_factorials.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Readability_Score.Problems-Check_burgs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Readability_Score.Problems-Check_burgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Readability_Score.Problems-Check_burgs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Readability_Score.Problems-Check_burgs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Readability_Score.Problems-Check_burgs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check burgs/Readability_Score.Problems-Check_burgs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Readability_Score.Problems-The_sum_of_digits.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Readability_Score.Problems-The_sum_of_digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Readability_Score.Problems-The_sum_of_digits.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Readability_Score.Problems-The_sum_of_digits.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Readability_Score.Problems-The_sum_of_digits.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of digits/Readability_Score.Problems-The_sum_of_digits.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score.Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score.Readability_Score-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score.Readability_Score-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score.Readability_Score-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score.Readability_Score-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score.Readability_Score-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Readability_Score.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Readability_Score.util.test.iml" />
     </modules>
   </component>
 </project>
